@@ -7,6 +7,8 @@
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "ag-grid-community": "^26.2.1",
+    "ag-grid-react": "^26.2.0",
     "bpmn-js": "^8.9.1",
     "bpmn-js-embedded-comments": "^0.6.1",
     "bpmn-js-properties-panel": "^0.46.0",
